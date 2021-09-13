@@ -1,5 +1,6 @@
 spring:
     datasource:
+        driverClassName: com.mysql.jdbc.Driver
         password: admin
         url: jdbc:mysql://localhost:3306/tp2
         username: root
